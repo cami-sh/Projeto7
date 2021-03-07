@@ -1,0 +1,16 @@
+.storybook-title2 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 52px;
+}
+
+.storybook-title2--primary {
+    width: 475px;
+    height: 100px;
+}
+
+.storybook-title2--secondary {
+    width: 405px;
+    height: 52px;
+}

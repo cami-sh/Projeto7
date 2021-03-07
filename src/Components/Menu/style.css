@@ -1,0 +1,5 @@
+.Menu {
+    display: flex;
+    width: 322px;
+    justify-content: space-between;
+}

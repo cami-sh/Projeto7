@@ -1,0 +1,27 @@
+.storybook-button {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    height: 60px;
+    border-radius: 50px;
+    font-size: 16px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.storybook-button--primary {
+    width: 210px;
+    color: #212353;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px;
+}
+
+.storybook-button--secondary {
+    width: 170px;
+    color: white;
+}
+
+.arrow {
+    margin-left: 20px;
+}

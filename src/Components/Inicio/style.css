@@ -1,0 +1,26 @@
+.h1 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    width: 645px;
+    height: 184;
+    line-height: 88px;
+    color: #212353;
+    margin: 0px;
+}
+
+.Inicio {
+    display: flex;
+    margin-top: 110px;
+    margin-left: 240px;
+    margin-right: 100px;
+    height: 564px;
+    background: url('../../Images/inicio.svg') no-repeat 100% bottom;
+}
+
+.Texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 464px;
+}

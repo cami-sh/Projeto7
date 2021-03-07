@@ -1,0 +1,13 @@
+.Header {
+    display: flex;
+    width: 1120px;
+    height: 60px;
+    margin-top: 46px;
+    margin-left: 240px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Menu {
+    margin-right: 418px;
+}

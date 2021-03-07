@@ -1,0 +1,21 @@
+.QuemSomos {
+    width: 1117px;
+    height: 560px;
+    background-color: rgba(240, 99, 184, 0.15);
+    border-radius: 50px;
+    width: 1117px;
+    height: 560px;
+    margin-left: 240px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.Content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 62px;
+    width: 475px;
+    height: 330px;
+}

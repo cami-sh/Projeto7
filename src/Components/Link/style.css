@@ -1,0 +1,15 @@
+.storybook-link {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 25.6px;
+}
+
+.storybook-link--primary {
+    font-weight: bold;
+    color: #212353
+}
+
+.storybook-link--secondary {
+    font-weight: normal;
+    color: #4B5D68
+}
